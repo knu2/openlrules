@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Build-Date: 2021-06-16T05:49:33.01574Z
+Created-By: OpenL WebStudio v.5.24.1
+Implementation-Title: PetInsurance
+Build-Branch: master
+Build-Number: 0f0198840eac6396480e51fbcf314d48acce8573
+Implementation-Version: DEFAULT-2021-06-16_05-49-06
+Built-By: DEFAULT
+
